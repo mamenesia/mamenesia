@@ -8,7 +8,9 @@ I'm a developer with deep fascination for computer science and gaining a deeper 
 
 I think the best decision of my career was to start writing, I super enjoy writing about techie stuff. without a doubt, become one of the crowning achievements of my journey.
 
+<!--
 Follow along my writing series where I take a closer iook at interesting concepts: [under the hood series - yaqeen.me](https://www.yaqeen.me/blog/series/uth)
+-->
 
 * Portfolio [mamenesia.com](https://mamenesia.com)
 * Blog [blog.mamenesia.com](http://blog.mamenesia.com)
