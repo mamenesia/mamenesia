@@ -1,12 +1,12 @@
 ### Hi, I'm Dedy 👋
 
-**Software Engineer — building production AI systems.**
+**Software Engineer - building production AI systems.**
 
 I've spent 6+ years building fullstack web and mobile applications. These days I'm
 focused on the intersection of LLMs, vector search, and retrieval-augmented
-generation — shipping AI features that actually work in production, not just demos.
+generation - shipping AI features that actually work in production, not just demos.
 
-- 🔭 **Currently building**: [AI Agent Starter Kit](https://github.com/mamenesia/ai-agent-starter-kit) — production RAG pipelines, tool-calling agents, and MCP server patterns
+- 🔭 **Currently building**: [AI Agent Starter Kit](https://github.com/mamenesia/ai-agent-starter-kit) - production RAG pipelines, tool-calling agents, and MCP server patterns
 - 🌐 **Portfolio**: [mamenesia.com](https://mamenesia.com)
 - ✍️ **Writing**: [blog.mamenesia.com](https://blog.mamenesia.com)
 - 📫 **Contact**: [dedy.prasetyo.h@gmail.com](mailto:dedy.prasetyo.h@gmail.com)
@@ -43,14 +43,14 @@ Pokémon comparison, and comprehensive test coverage.
 
 #### Where I've Shipped
 
-- **AI Analytics Platform** — Built semantic search using OpenAI embeddings +
+- **AI Analytics Platform** - Built semantic search using OpenAI embeddings +
   Pinecone, enabling contextual discovery across large document sets
-- **Enterprise LMS** — Architected fullstack Next.js learning platform at
+- **Enterprise LMS** - Architected fullstack Next.js learning platform at
   Kalbe Farma; delivered MVP in 2 months (ahead of 3-month schedule)
-- **Insurance Automation** — Reduced claims processing from 3 days to 1 day
+- **Insurance Automation** - Reduced claims processing from 3 days to 1 day
   through workflow automation (66% faster)
 - **10+ projects delivered** across logistics, insurance, e-commerce, and
-  edtech — maintaining 100% client satisfaction
+  edtech - maintaining 100% client satisfaction
 
 ---
 
